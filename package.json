@@ -1,0 +1,14 @@
+{
+  "name": "work-todos",
+  "version": "1.0.0",
+  "description": "This app aims to record the toDo's of person",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lohit.b",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

@@ -1,0 +1,59 @@
+.container {
+    height: 100vh;
+    background: #459fbc;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.header {
+    color: white;
+    font-size: 76px;
+    font-family: 'Salesforce sans';
+    font-weight: bold;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+}
+
+.work-input-box {
+    width: 80%;
+    margin-right: 5px;
+    font-family: 'Salesforce sans';
+    font-size: 16px;
+}
+
+.sub-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+}
+
+.btn {
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.float-right {
+    float: right;
+}
+
+.task-details {
+    background: #6ab7ca;
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 5px;
+    width: 60%;
+    margin-top: 10px;
+}
+
+.sub-header {
+    color: #294a4a;
+    font-size: 36px;
+    font-family: 'Salesforce sans';
+    font-weight: bold;
+}
