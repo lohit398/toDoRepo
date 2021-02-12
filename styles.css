@@ -57,3 +57,42 @@ body {
     font-family: 'Salesforce sans';
     font-weight: bold;
 }
+
+.backgroud-image {
+    background-image: url(/wp2704832.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.center {
+    align-items: center;
+    justify-content: center;
+}
+
+.wish {
+    font-size: 30px;
+    color: white;
+    font-family: 'Salesforce sans';
+    font-weight: bold;
+}
+
+input {
+    background-color: transparent;
+    border-bottom: 1px solid black;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    font-size: 30px;
+    color: white;
+    font-family: 'Salesforce sans';
+    font-weight: bold;
+}
+
+input:focus {
+    outline: none;
+}
+
+.input-box {
+    width: 150px;
+    text-align: center;
+}
