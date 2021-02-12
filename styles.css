@@ -94,5 +94,5 @@ input:focus {
 
 .input-box {
     width: 150px;
-    text-align: center;
+    border: none;
 }
